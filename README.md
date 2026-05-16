@@ -1,13 +1,15 @@
 # 簡易版R.E.P.O.非公式日本語化（MOD不要）
 
 ## ダウンロード手順
-1. 右のReleaseから日本語化ファイル最新版を開く。
-2. zipファイルをダウンロードする。(srcなどは不要)
+1. 右のReleaseから日本語化ファイル Latestを開く。
+2. REPO_Localizations_********.zipファイルをダウンロードする。(Source code (zip)などは不要)
 
 ## インストール手順
 1. SteamライブラリからR.E.P.O.を右クリックして、「管理 > ローカルファイルを閲覧」を選んでインストール先フォルダを表示する。
 2. REPO_Data > StreamingAssets > Localizations へとフォルダを開いて進む。
-3. 同梱されたGame.tsvとHUD.tsvとMenu.tsvの3つのファイルをそこにコピーする。(Defaultフォルダ内部は無視する)(Windowsの設定によってはファイル名の.tsvは表示されない)
+3. 同梱されたGame.tsvとHUD.tsvとMenu.tsvの3つのファイルをそこにコピーする。
+(Defaultフォルダ内部は無視する)<br>
+(Windowsの設定によってはファイル名の.tsvは表示されない)<br>
 
 ## 注意点
 + 公式にサポートされていない部分(公開ゲームのServer Listなど)は日本語にならない。
