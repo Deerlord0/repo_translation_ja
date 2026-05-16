@@ -8,6 +8,7 @@
 1. SteamライブラリからR.E.P.O.を右クリックして、「管理 > ローカルファイルを閲覧」を選んでインストール先フォルダを表示する。
 2. REPO_Data > StreamingAssets > Localizations へとフォルダを開いて進む。
 3. 同梱されたGame.tsvとHUD.tsvとMenu.tsvの3つのファイルをそこにコピーする。
+<br>
 (Defaultフォルダ内部は無視する)<br>
 (Windowsの設定によってはファイル名の.tsvは表示されない)<br>
 
