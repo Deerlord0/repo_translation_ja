@@ -9,7 +9,7 @@
 2. REPO_Data > StreamingAssets > Localizations へとフォルダを開いて進む。
 3. 同梱されたGame.tsvとHUD.tsvとMenu.tsvの3つのファイルをそこにコピーする。
 <br>
-(Defaultフォルダ内部は無視する)<br>
+(Defaultフォルダ内部にある同名ファイルは無視する。間違えてそこに上書きしないように注意)<br>
 (Windowsの設定によってはファイル名の.tsvは表示されない)<br>
 
 ## 注意点
