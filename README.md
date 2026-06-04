@@ -9,7 +9,7 @@
 <img width="447" height="218" alt="REPOSS1" src="https://github.com/user-attachments/assets/03c07536-a24f-428d-8ed3-c6fb4fbb5401" /><br><br>
 2. REPO_Data > StreamingAssets > Localizations へとフォルダを開いて進む。<br>
 <img width="1134" height="186" alt="REPOSS2" src="https://github.com/user-attachments/assets/9fa02c58-5087-4f3c-87ed-a5a036846503" /><br><br>
-3. 同梱されたGame.tsvとHUD.tsvとMenu.tsvの3つのファイルをそこにコピーする。<br>
+3. ダウンロードしたzipファイル内のGame.tsvとHUD.tsvとMenu.tsvの3つのファイルをそこにコピーする。<br>
 <img width="411" height="145" alt="REPOSS3" src="https://github.com/user-attachments/assets/11ac077c-2d9e-498f-b451-fc755cf6256e" /><br><br>
 (Defaultフォルダ内部にある同名ファイルは無視する。間違えてそこに上書きしないように注意)<br>
 (Windowsの設定によってはファイル名の.tsvは表示されない)<br>
