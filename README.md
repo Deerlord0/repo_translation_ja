@@ -2,7 +2,8 @@
 
 ## ダウンロード手順
 1. 右のReleaseから日本語化ファイル Latestを開く。
-2. REPO_Localizations_********.zipファイルをダウンロードする。(Source code (zip)などは不要)
+2. REPO_Localizations_********.zipファイルをダウンロードする。(Source code (zip)などは不要)<br>
+(見れば使い方分かる人は<>Codeのボタンを押してDownload ZIPでも構いません)
 
 ## インストール手順
 1. SteamライブラリからR.E.P.O.を右クリックして、「管理 > ローカルファイルを閲覧」を選んでインストール先フォルダを表示する。<br>
